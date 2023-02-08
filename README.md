@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricedust
 - 👀 I’m interested in software, art, and everything in between.
-- 🌱 I’m currently learning how to host a website on GitHub.
+- 🌱 I’m currently learning how to build a Markdown blog powered by React.
 <!--
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
