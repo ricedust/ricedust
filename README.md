@@ -1,10 +1,17 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=100&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=RICEDUST;Game+Developer;Pixel+Artist;Music+Producer" alt="Typing SVG" />
-  </a>
-</p>
+<p align="center"><img src="banner.gif" alt="Banner"/></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=50&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=1024&height=100&lines=RICEDUST;Game+Developer;Pixel+Artist;Music+Producer" alt="Typing SVG"/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,java,js,html,css,tailwind,git" />
-  </a>
-</p>
+## Hi, my name is Shane.
+
+I make games, pixel art, and music. I'm interested in the aesthetic and storytelling possibilities of software and games. You can find my games [here](https://ricedust.itch.io/). I'm also a SWE student, teach CS as an assistant, and I've worked on some neat web-based generative art experiments that I've published here on GitHub.
+
+## I'm working on
+
+* 🚚 developing a chaotic, arcade driving game in Unity
+* 🌱 building my [portfolio website](ricedust.com)
+* 🧠 learning how to build web-based multiplayer games with the [Playroom Kit API](https://joinplayroom.com/)
+* ⚡ learning how to use and customize Vim
+
+## I've worked with
+
+[![Skills](https://skillicons.dev/icons?i=cs,unity,java,js,html,css,tailwind,git)](https://skillicons.dev)
