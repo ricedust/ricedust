@@ -6,7 +6,7 @@
 
 ## Hi, my name is Shane.
 
-I make games, pixel art, and music. I'm interested in the aesthetic and storytelling possibilities of software and games. You can find my games [here](https://ricedust.itch.io/). I'm also a SWE student, teach CS as an assistant, and I've worked on some neat web-based generative art experiments that I've published here on GitHub.
+I make games, pixel art, and music. I'm interested in the aesthetic and storytelling possibilities of software and games. You can find my games [here](https://ricedust.itch.io/). I'm also a SWE student, teach CS as an assistant, and I've worked on some neat web-based, generative art that I've published here on GitHub.
 
 ## I'm working on
 
