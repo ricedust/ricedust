@@ -1,7 +1,7 @@
 <p align="center"><img src="banner.gif" alt="Banner"/></p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=1024&height=124&lines=RICEDUST;Game+Developer;Pixel+Artist;Music+Producer" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=50&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=1024&height=124&lines=RICEDUST;Game+Developer;Pixel+Artist;Music+Producer" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=1024&height=100&lines=RICEDUST;Game+Developer;Pixel+Artist;Music+Producer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=50&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=1024&height=100&lines=RICEDUST;Game+Developer;Pixel+Artist;Music+Producer" alt="Typing SVG" />
 </picture>
 
 ## Hi, my name is Shane.
