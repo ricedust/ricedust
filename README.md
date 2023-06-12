@@ -11,7 +11,7 @@ I make games, pixel art, and music. I'm interested in the aesthetic and storytel
 ## I'm working on
 
 * 🚚 developing a chaotic, arcade driving game in Unity
-* 🌱 building my [portfolio website](ricedust.com)
+* 🌱 building my [portfolio website](https://ricedust.com/)
 * 🧠 learning how to build web-based multiplayer games with the [Playroom Kit API](https://joinplayroom.com/)
 * ⚡ learning how to use and customize Vim
 
