@@ -16,4 +16,4 @@ I make games, pixel art, and music. I'm interested in the aesthetic and storytel
 
 ## I've worked with
 
-![Skills](https://skillicons.dev/icons?i=cs,unity,java,js,html,css,tailwind,git)
+![Skills](https://skillicons.dev/icons?i=cs,unity,java,ts,js,html,css,tailwind,git)
