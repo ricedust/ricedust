@@ -6,13 +6,7 @@
 
 ## Hi, my name is Shane.
 
-I make games, digital media art, and do sound design/scoring for fun. I'm interested in the aesthetic and storytelling possibilities of software and games. You can find my games on [itch.io](https://ricedust.itch.io/). I'm also a SWE student, teach CS as an assistant, and I've worked on some neat web-based, generative art that I've published here.
-
-## I'm working on
-
-* 📦 producing a first-person, wave-based, action game in UE5
-* 🌱 building a new [portfolio website](https://ricedust.com/)
-* ⚡ learning and customizing Vim
+I make games, digital media art, and music. I'm interested in the aesthetic and storytelling possibilities of software and games. You can find my games on [itch.io](https://ricedust.itch.io/). I've also worked on some neat web-based, generative art you can find here on my GitHub.
 
 ## I've worked with
 
